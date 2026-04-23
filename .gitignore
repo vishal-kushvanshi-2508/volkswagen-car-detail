@@ -1,0 +1,47 @@
+# ----------------------
+# Python cache
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+
+# ----------------------
+# Virtual environment
+# ----------------------
+venv/
+env/
+
+# ----------------------
+# PyCharm files
+# ----------------------
+.idea/
+*.iml
+
+# ----------------------
+# Logs
+# ----------------------
+*.log
+
+# ----------------------
+# OS files
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# Environment variables
+# ----------------------
+.env
+
+# ----------------------
+# Scraping data
+# ----------------------
+*.html
+*.json
+*.log
+
+# test
+
+# Ignore specific file
+#burge_King.html
+# Computer parts, laptops, electronics, and more - Newegg United States.html
